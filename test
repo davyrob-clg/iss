@@ -1,0 +1,10 @@
+The Intel 8086 Has a 1 Mb address space with a maximum data value of 65535
+The Intel 8086 Has a 4 Mb address space with a maximum data value of 8191
+The Intel 8086 Has a 1 Gb address space with a maximum data value of 65535
+The Intel 8086 Has a 256Mb address space with a maximum data value of 32767
+
+
+Internet Hosting: VPCs are designed to allow direct public internet access to resources like EC2 without any additional configuration like S3 or internet gateways
+
+Internet Hosting: - VPCs are designed to allow direct public internet access to resources like EC2 without any additional configuration like S3 or internet gateways
+
