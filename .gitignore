@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Distribution / build files
+build/
+dist/
+*.egg
+*.whl
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store # macOS specific
+
+# Specific files
+.python-version # if using pyenv or similar
+.coverage # coverage reports
+.mypy_cache/ # Mypy type checker cache
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Logs
+*.log
